@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "e1f7c1d9e14595bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6ef0bb27b6e4b62",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "lienUtile.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d100e533d1b4d2aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "d00a450144727bc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c653f8411374a548",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7f815f25c200b2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c03727158d3da869",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f5feb4e2a9d9dff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "846b9da1a472a61f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "lienUtile.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "lienUtile.md",
+    "README.md",
+    "architecture.md",
+    "cache.md",
+    "architecture.md.md",
+    "lienUtile.md.md",
+    "cache.md.md",
+    "Untitled.md"
+  ]
+}
